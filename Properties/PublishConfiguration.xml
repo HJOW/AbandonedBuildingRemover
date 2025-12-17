@@ -1,0 +1,62 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Abandoned Building Remover (Cloned)" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Automatically demolishes abandoned buildings" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="This is a long description" /-->
+	<LongDescription>
+    Automatically demolishes buildings as they become abandoned.
+
+    Works on new and existing saves shortly after you unpause.
+    This mod does not add data to your savegames, and should be safe to remove at any time.
+
+    This is cloned mod of https://mods.paradoxplaza.com/mods/123489/Windows made by deviancele, MIT licensed.
+
+    Copyright (c) 2025 Wayzware
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+  </LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="1.0" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="1.5.*" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="" />
+	<!--Required DLC, can be set multiple times. Supported values are "Landmark Buildings", "San Fransisco Set", "Beach Properties", "Urban Promenades", "Modern Architecture"-->
+	<RequiredDLC Value="" />
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="" />
+	<!--<ChangeLog>
+	</ChangeLog>-->
+	<!--External link, can be set multiple times. supported types are "discord", "github", "youtube", "twitch", "x", "paypal", "patreon", "buymeacoffee", "kofi", "crowdin", "gitlab", "gofundme"-->
+	<ExternalLink Type="github" Url="https://github.com/HJOW/AbandonedBuildingRemover" />
+	<!--Supported values Public, Private, Unlisted-->
+	<AccessLevel Value="Public" />
+</Publish>
