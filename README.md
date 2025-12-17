@@ -2,7 +2,7 @@
 A Cities: Skylines II mod to automatically demolish abandoned buildings.
 This mod is can be used with new and exisiting saves and does not modify your savegame, so you are free to remove it at any time without issues.
 
-This is cloned mod of https://mods.paradoxplaza.com/mods/123489/Windows made by deviancele, MIT licensed.
+This is cloned mod of https://mods.paradoxplaza.com/mods/123489/Windows made by deviancele, MIT licensed.    
     Copyright (c) 2025 Wayzware
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
